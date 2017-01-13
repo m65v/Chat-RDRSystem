@@ -1,0 +1,31 @@
+21:14:31,690 I: (ErlangCore.java:63) : Starting CORE Thread[main,6,main]
+21:14:31,758 I: (ErlangCore.java:78) : *** starting Erlide v0.33.0.201605251547 (core=0.32.2.201605251547) (model api=0.32.1.201605251547) *** (Cp1252) ui
+21:14:31,790 I: (ErlangCore.java:85) : Started CORE
+21:14:31,791 F: (ErlangPlugin.java:89) : Core started
+21:14:37,425 F: (ErlangHostnameRetriever.java:42) : Erlang long hostname: null
+21:14:38,692 F: (ErlangHostnameRetriever.java:42) : Erlang short hostname: Mayra
+21:14:39,272 F: (HostnameChecker.java:205) : Detected:: 'Mayra' && '127.0.0.1'
+21:14:39,291 F: (BackendActivator.java:25) : Backend plugin started
+21:14:39,316 I: (ErlideUIPlugin.java:121) : Starting UI Thread[main,6,main]
+21:14:39,322 F: (ModelActivator.java:19) : Starting Erlang model api
+21:14:39,368 F: (BackendFactory.java:40) : Create ide backend 19.0.0
+21:14:39,369 F: (BackendFactory.java:54) : Create backend d4615_Mayra_df20fc_erlide
+21:14:39,423 F: (OtpNodeProxy.java:420) : START node :> ["c:\program files (x86)\erl8.0/bin/erl", -name, d4615_Mayra_df20fc_erlide@127.0.0.1, -setcookie, erlide] *** C:\03-MayraTERM3\DIT-524 Project\Project\chat-trials
+21:14:39,424 F: (OtpNodeProxy.java:302) : Runtime d4615_Mayra_df20fc_erlide@127.0.0.1 starting
+21:14:39,457 F: (OtpNodeProxy.java:213) : d4615_Mayra_df20fc_erlide@127.0.0.1: waiting connection to peer... 
+21:14:39,879 F: (OtpNodeProxy.java:220) : connected!
+21:14:39,999 F: (OtpNodeProxy.java:307) : Runtime d4615_Mayra_df20fc_erlide@127.0.0.1 running
+21:14:40,228 F: (LogEventHandler.java:27) : info: {"Monitoring java node",'jerlide_ddf2153@127.0.0.1'}
+21:14:40,229 F: (LogEventHandler.java:27) : info: {"Start monitor process: ",10000000,50000000}
+21:14:40,521 F: (ModelActivator.java:30) : Started model api
+21:14:40,539 I: (ErlideUIPlugin.java:142) : Started UI
+21:14:56,302 F: (OtpNodeProxy.java:312) : Runtime d4615_Mayra_df20fc_erlide@127.0.0.1 stopping
+21:14:56,344 F: (OtpNodeProxy.java:272) : Runtime d4615_Mayra_df20fc_erlide@127.0.0.1 terminated
+
+--------------------------------------------------------------
+*** RpcMonitor statistics
+ - 26 calls
+
+RpcMonitor was not enabled.
+
+Use -Derlide.rpcmonitor to enable it.

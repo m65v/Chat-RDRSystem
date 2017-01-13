@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;chatbook/src/chat_controller.erl&apos; to &apos;mod_chat_controller.erl&apos;" description="Rename resource &apos;chat_controller.erl&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/chat_controller.erl" name="mod_chat_controller.erl" stamp="1478963849156" updateReferences="true"/>
+</session>

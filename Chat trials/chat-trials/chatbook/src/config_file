@@ -1,0 +1,5 @@
+
+
+{port, 2223}.
+{service, chat, password,"1234",mfa,mod_chat_controller,start,[]}.
+

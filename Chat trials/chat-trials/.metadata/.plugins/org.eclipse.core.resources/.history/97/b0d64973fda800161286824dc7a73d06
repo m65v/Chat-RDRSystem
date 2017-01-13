@@ -1,0 +1,7 @@
+%% @author Mayra
+%% @doc @todo Add description to socket_dist.
+
+{port, 2223}.
+{service, chat, password,"AsDT67aQ",mfa,mod_chat_controller,start,[]}.
+
+
